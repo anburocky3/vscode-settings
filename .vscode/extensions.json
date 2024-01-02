@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    // themes & icons
+    "AnbuselvanRocky.cyberdude-theme",
+    "vscode-icons-team.vscode-icons",
+    "adpyke.codesnap",
+
+    // snippets
+    "AnbuselvanRocky.bootstrap5-vscode",
+
+    // toolings
+    "ritwickdey.LiveServer",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens"
+  ]
+}
